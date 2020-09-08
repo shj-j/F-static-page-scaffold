@@ -18,3 +18,26 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3b5998;
+	color: white;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+.register-button {
+  color: white;
+  background-color: #42b72a;
+  border: none;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.join-facebook{
+  height:30px;
+}
